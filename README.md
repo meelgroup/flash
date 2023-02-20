@@ -1,4 +1,4 @@
-# Supplementary Material for the paper Testing of Horn Samplers
+# Flash
 
 
 

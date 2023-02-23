@@ -1,4 +1,4 @@
-# Flash
+# Flash - A Horn Sampler Tester
 
 
 

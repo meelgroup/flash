@@ -61,3 +61,6 @@ The directory is subdivided into 3 parts: uflash, flash, baseline.
 	```
 	cp -r samplers/ baseline/
 	```
+
+## Contributors
+* [Sayantan Sen](mailto:sayantan789@gmail.com)

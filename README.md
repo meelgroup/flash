@@ -63,4 +63,9 @@ The directory is subdivided into 3 parts: uflash, flash, baseline.
 	```
 
 ## Contributors
+* [Uddalok Sarkar](mailto:uddaloksarkar@gmail.com)
 * [Sayantan Sen](mailto:sayantan789@gmail.com)
+* [Sourav Chakraborty](mailto:sourav@isical.ac.in)
+* [Ansuman Banerjee](mailto:ansuman@isical.ac.in)
+* [Kuldeep S Meel](mailto:meel@comp.nus.edu.sg)
+* [Shayak Chakraborty](mailto:shayak.asansol@gmail.com)
